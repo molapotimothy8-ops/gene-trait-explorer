@@ -1,4 +1,5 @@
 # Lesotho Trait Survey Explorer
+**Live demo:** https://molapotimothy8-ops.github.io/gene-trait-explorer/
 
 An interactive page for exploring visible inherited traits (earlobes, handedness, tongue rolling, dimples, freckles, cleft chin, widow's peak) reported by about 303 people in Lesotho in 2026.
 
